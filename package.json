@@ -1,7 +1,7 @@
 {
   "name": "markdown-to-htmlStr-loader",
   "version": "1.0.0",
-  "description": "",
+  "description": "webpack loader for markdown to html string",
   "main": "index.js",
   "scripts": {
     "test": "jest"
